@@ -36,4 +36,9 @@ Tên đề tài :Web Cửa Hàng Mỹ Phẩm
         Trang thanh toán :![alt text](image-4.png)
         Giao diện quản trị Admin: ![alt text](image-5.png)
     Link video demo : https://drive.google.com/drive/folders/1GMrPdj_I7RujaRQJ9iYYbmELfPnziqlo?usp=sharing
-    Link online đã deploy: https://trieuquangthanh22.id.vn/myweb/
+    Link online đã deploy: https://trieuquangthanh22.id.vn/myweb/[Tập tin: image-2.png]
+[Tập tin: image-3.png]
+[Tập tin: image-1.png]
+[Tập tin: image-4.png]
+[Tập tin: image.png]
+[Tập tin: image-5.png]
