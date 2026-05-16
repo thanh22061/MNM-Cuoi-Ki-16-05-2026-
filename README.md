@@ -37,8 +37,10 @@ Tên đề tài :Web Cửa Hàng Mỹ Phẩm
         Giao diện quản trị Admin: ![alt text](image-5.png)
     Link video demo : https://drive.google.com/drive/folders/1GMrPdj_I7RujaRQJ9iYYbmELfPnziqlo?usp=sharing
     Link online đã deploy: https://trieuquangthanh22.id.vn/myweb/[Tập tin: image-2.png]
-[Tập tin: image-3.png]
-[Tập tin: image-1.png]
-[Tập tin: image-4.png]
-[Tập tin: image.png]
-[Tập tin: image-5.png]
+<img width="634" height="335" alt="image-4" src="https://github.com/user-attachments/assets/5be33ee1-c92c-4c2b-ad81-8a07d72a7e51" />
+<img width="634" height="340" alt="image-3" src="https://github.com/user-attachments/assets/eab9609d-f944-4d6e-a7a4-13dd3f7f7fad" />
+<img width="634" height="333" alt="image-2" src="https://github.com/user-attachments/assets/02473e0c-d82e-4480-b11b-070a9ff6c78c" />
+<img width="634" height="337" alt="image-1" src="https://github.com/user-attachments/assets/e546e2ef-0f9e-4f13-b24c-b74773c06d98" />
+<img width="1452" height="771" alt="image" src="https://github.com/user-attachments/assets/75da5d7f-e99c-405c-b5a3-1d1441da94a0" />
+<img width="634" height="357" alt="image-5" src="https://github.com/user-attachments/assets/46a62520-4340-431c-b5b4-f541f02e51d3" />
+
