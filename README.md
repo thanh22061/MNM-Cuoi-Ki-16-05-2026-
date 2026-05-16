@@ -2,6 +2,7 @@
 Tên đề tài :Web Cửa Hàng Mỹ Phẩm  
     Giới thiệu :
         Dự án xây dựng một website bán mỹ phẩm trực tuyến nhằm đáp ứng nhu cầu mua sắm tiện lợi và an toàn của người tiêu dùng. Website được thiết kế với giao diện thân thiện, cho phép người dùng dễ dàng xem sản phẩm, tìm kiếm, đặt hàng và quản lý giỏ hàng. Đồng thời, hệ thống cung cấp trang quản trị giúp người bán dễ dàng quản lý sản phẩm, danh mục, đơn hàng, thông tin khách hàng và doanh thu một cách khoa học.  
+ 
     Danh sách thành viên 
         Vũ Trọng Huân     -  23810310040 :Thiết lập cơ sở dữ liệu MySQL , cài đặt và cấu hình các chức năng thương mại điện tử qua WooCommerce
         Triệu Quang Thành -  23810310045 :Quản lý máy chủ ảo GenCloud, cấu hình tên miền và thực hiện Deploy website lên môi trường thực tế
